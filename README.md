@@ -1,4 +1,4 @@
-# litecoin.org
+# mcoin.org
 
 ## Updating Download Urls
 
